@@ -1,0 +1,17 @@
+Horizontal Scroller Fun
+=======================
+
+I wanted to play with horizontal scrolling. I started off using the Scroller component and then wanted to build on top of it to offer a richer and easier to use alternative.
+
+How do I install this app?
+--------------------------
+
+Once you download it (e.g. git clone it) and you [install the webOS SDK](http://developer.palm.com/index.php?option=com_ajaxregister&view=register&sdkdownload) you are ready to build the application:
+
+* palm-package /path/to/downloaded/horizontal-scroller
+* palm-install com.almaer.horizontalscroller_1.0.0_all.ipk
+
+What is in it?
+--------------
+
+When you run the app you will see options for various tests.

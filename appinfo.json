@@ -1,0 +1,9 @@
+{
+	"id": "com.almaer.horizontalscroller",
+	"version": "1.0.0",
+	"vendor": "Dion Almaer",
+	"type": "web",
+	"main": "index.html",
+	"title": "Horizontal Scroller",
+	"icon": "icon.png"
+}

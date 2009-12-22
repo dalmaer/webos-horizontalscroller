@@ -1,0 +1,13 @@
+/* A scroller needs a container element */
+.scrollerContainer {
+    width:  960px;
+    height: 400px;
+    border: yellow solid 1px;
+}
+
+/* An item that is viewable in the scroll pane window */
+.scrollerItem {
+    float:     left;
+    width:     320px;
+    min-width: 320px;
+}
