@@ -1,3 +1,0 @@
-#!/bin/sh
-
-palm-package .; palm-install -d tcp com.almaer.horizontalscroller_*.ipk; palm-log -f -d tcp com.almaer.horizontalscroller
